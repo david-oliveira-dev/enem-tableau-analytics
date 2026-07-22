@@ -47,12 +47,14 @@ SUM([Nota Media Geral] * [N Participantes]) / SUM([N Participantes])
 SUM(IF [Rede] = "Privada" THEN [Nota Media Geral] * [N Participantes] END)
   / SUM(IF [Rede] = "Privada" THEN [N Participantes] END)
 -
-SUM(IF [Rede] = "Publica" THEN [Nota Media Geral] * [N Participantes] END)
-  / SUM(IF [Rede] = "Publica" THEN [N Participantes] END)
+SUM(IF [Rede] = "Pública" THEN [Nota Media Geral] * [N Participantes] END)
+  / SUM(IF [Rede] = "Pública" THEN [N Participantes] END)
 ```
 
-> Atenção ao acento: no arquivo o valor é `Pública`, com acento. Copie o texto do próprio
-> campo em vez de digitar, senão a condição nunca casa e o resultado sai nulo.
+> **O acento em `"Pública"` é obrigatório.** Os valores gravados são exatamente `Pública` e
+> `Privada`; comparar com `"Publica"` não casa com nada e o campo devolve nulo — sem erro,
+> sem aviso, só um KPI em branco. O nome do campo calculado (`Gap Privada Publica`) pode
+> ficar sem acento; a string comparada, não.
 
 **`Rotulo Gap`** — formatação com sinal, para o KPI:
 

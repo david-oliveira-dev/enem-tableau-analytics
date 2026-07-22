@@ -181,10 +181,22 @@ make etl          # CSV bruto → Parquet harmonizado    (~2 min)
 make aggregate    # tabelas agregadas da base completa (~1 min)
 make export       # amostra + CSV + extract .hyper     (~1 min)
 make notebook     # executa a EDA e gera as figuras    (~2 min)
-make test         # 21 testes
+make test         # 25 testes
 ```
 
 Tempos medidos em máquina com HD mecânico e conexão de ~4 MB/s.
+
+### Reprodutibilidade
+
+Rodar o pipeline duas vezes sobre os mesmos arquivos brutos produz os **17 CSVs byte a
+byte idênticos** (amostragem com semente fixa, `SEED = 42` em `src/config.py`).
+
+O `.hyper` é a única exceção, e por um motivo benigno: o formato embute estado interno,
+então os bytes do arquivo mudam a cada escrita. O **conteúdo** é o mesmo — verificamos
+tabela a tabela, e as nove são idênticas; apenas a ordem em que a tabela `amostra` volta
+na leitura varia, porque Hyper é um banco de dados e não garante ordem de linha sem um
+`ORDER BY` explícito. Isso não afeta o Tableau, que agrega. Se o `.hyper` aparecer como
+modificado no `git status` sem você ter mudado nada, é isso.
 
 ### Saídas
 
