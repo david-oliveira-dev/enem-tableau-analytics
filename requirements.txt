@@ -1,0 +1,23 @@
+# Núcleo de dados
+pandas>=2.2,<3.0
+numpy>=1.26,<3.0
+pyarrow>=15.0          # backend do Parquet (interim) e dependência do pantab
+
+# Visualização (EDA no notebook; o dashboard final é no Tableau)
+matplotlib>=3.8
+seaborn>=0.13
+
+# Notebook + execução programática (permite rodar o notebook no CI/Makefile)
+jupyterlab>=4.0
+ipykernel>=6.29
+nbformat>=5.10
+nbconvert>=7.16
+
+# Extract nativo do Tableau (.hyper)
+# pantab é a ponte pandas <-> Hyper; ele puxa tableauhyperapi como dependência.
+# tableauhyperapi só tem wheel para x86-64/arm64 em Linux, macOS e Windows — em
+# outras plataformas a instalação falha e o pipeline cai no fallback só-CSV.
+pantab>=5.0
+
+# Testes
+pytest>=8.0

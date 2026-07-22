@@ -1,0 +1,23 @@
+# Dados brutos e intermediários — ~6 GB, reconstruídos por `make download && make etl`.
+# data/processed/ e outputs/ SÃO versionados: são os entregáveis do projeto e o que
+# permite conferir os números sem rodar o pipeline inteiro.
+data/raw/
+data/interim/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Tableau (arquivos locais gerados ao montar o dashboard)
+*.twb
+*.twbx
+*.tde
+*.log
+
+# Editor / SO
+.vscode/
+.idea/
+.DS_Store

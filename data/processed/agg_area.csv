@@ -1,0 +1,811 @@
+ANO,UF,REGIAO,REDE,nota_media,nota_mediana,n_participantes,AREA
+2022,AC,Norte,Privada,568.63,574.50,478,Ciências Humanas
+2022,AC,Norte,Privada,528.75,527.10,478,Ciências da Natureza
+2022,AC,Norte,Privada,547.33,554.80,478,Linguagens e Códigos
+2022,AC,Norte,Privada,590.15,595.35,478,Matemática
+2022,AC,Norte,Privada,787.70,840.00,478,Redação
+2022,AC,Norte,Pública,495.47,497.10,2571,Ciências Humanas
+2022,AC,Norte,Pública,468.43,460.75,2571,Ciências da Natureza
+2022,AC,Norte,Pública,484.00,490.30,2571,Linguagens e Códigos
+2022,AC,Norte,Pública,495.97,481.95,2571,Matemática
+2022,AC,Norte,Pública,576.36,580.00,2571,Redação
+2022,AL,Nordeste,Privada,551.84,557.80,3273,Ciências Humanas
+2022,AL,Nordeste,Privada,516.23,513.00,3273,Ciências da Natureza
+2022,AL,Nordeste,Privada,535.53,543.60,3273,Linguagens e Códigos
+2022,AL,Nordeste,Privada,579.66,581.60,3273,Matemática
+2022,AL,Nordeste,Privada,729.34,760.00,3273,Redação
+2022,AL,Nordeste,Pública,498.64,500.70,7682,Ciências Humanas
+2022,AL,Nordeste,Pública,475.56,467.10,7682,Ciências da Natureza
+2022,AL,Nordeste,Pública,488.02,491.80,7682,Linguagens e Códigos
+2022,AL,Nordeste,Pública,510.06,493.15,7682,Matemática
+2022,AL,Nordeste,Pública,575.88,600.00,7682,Redação
+2022,AM,Norte,Privada,567.37,574.60,1667,Ciências Humanas
+2022,AM,Norte,Privada,529.59,529.30,1667,Ciências da Natureza
+2022,AM,Norte,Privada,555.25,566.90,1667,Linguagens e Códigos
+2022,AM,Norte,Privada,593.19,597.00,1667,Matemática
+2022,AM,Norte,Privada,707.13,720.00,1667,Redação
+2022,AM,Norte,Pública,486.54,488.50,12471,Ciências Humanas
+2022,AM,Norte,Pública,464.06,455.20,12471,Ciências da Natureza
+2022,AM,Norte,Pública,476.78,480.75,12471,Linguagens e Códigos
+2022,AM,Norte,Pública,481.03,463.75,12471,Matemática
+2022,AM,Norte,Pública,520.85,560.00,12471,Redação
+2022,AP,Norte,Privada,557.05,563.25,570,Ciências Humanas
+2022,AP,Norte,Privada,515.73,515.65,570,Ciências da Natureza
+2022,AP,Norte,Privada,545.27,558.35,570,Linguagens e Códigos
+2022,AP,Norte,Privada,563.20,554.65,570,Matemática
+2022,AP,Norte,Privada,733.30,760.00,570,Redação
+2022,AP,Norte,Pública,494.28,496.40,2348,Ciências Humanas
+2022,AP,Norte,Pública,464.13,453.90,2348,Ciências da Natureza
+2022,AP,Norte,Pública,479.30,481.40,2348,Linguagens e Códigos
+2022,AP,Norte,Pública,480.26,466.75,2348,Matemática
+2022,AP,Norte,Pública,564.19,580.00,2348,Redação
+2022,BA,Nordeste,Privada,565.64,571.80,10958,Ciências Humanas
+2022,BA,Nordeste,Privada,529.14,528.85,10958,Ciências da Natureza
+2022,BA,Nordeste,Privada,549.80,557.90,10958,Linguagens e Códigos
+2022,BA,Nordeste,Privada,594.60,601.40,10958,Matemática
+2022,BA,Nordeste,Privada,759.51,780.00,10958,Redação
+2022,BA,Nordeste,Pública,505.01,507.40,22387,Ciências Humanas
+2022,BA,Nordeste,Pública,475.62,466.70,22387,Ciências da Natureza
+2022,BA,Nordeste,Pública,494.53,500.70,22387,Linguagens e Códigos
+2022,BA,Nordeste,Pública,505.15,490.30,22387,Matemática
+2022,BA,Nordeste,Pública,582.21,600.00,22387,Redação
+2022,CE,Nordeste,Privada,579.79,587.00,7317,Ciências Humanas
+2022,CE,Nordeste,Privada,541.97,541.20,7317,Ciências da Natureza
+2022,CE,Nordeste,Privada,557.74,566.10,7317,Linguagens e Códigos
+2022,CE,Nordeste,Privada,629.18,633.80,7317,Matemática
+2022,CE,Nordeste,Privada,788.61,820.00,7317,Redação
+2022,CE,Nordeste,Pública,486.20,487.90,63644,Ciências Humanas
+2022,CE,Nordeste,Pública,466.89,457.40,63644,Ciências da Natureza
+2022,CE,Nordeste,Pública,474.71,478.10,63644,Linguagens e Códigos
+2022,CE,Nordeste,Pública,494.57,476.10,63644,Matemática
+2022,CE,Nordeste,Pública,527.98,580.00,63644,Redação
+2022,DF,Centro-Oeste,Privada,581.20,586.60,6161,Ciências Humanas
+2022,DF,Centro-Oeste,Privada,548.56,550.90,6161,Ciências da Natureza
+2022,DF,Centro-Oeste,Privada,570.39,576.70,6161,Linguagens e Códigos
+2022,DF,Centro-Oeste,Privada,615.82,619.30,6161,Matemática
+2022,DF,Centro-Oeste,Privada,751.83,780.00,6161,Redação
+2022,DF,Centro-Oeste,Pública,522.76,525.90,9464,Ciências Humanas
+2022,DF,Centro-Oeste,Pública,485.82,478.50,9464,Ciências da Natureza
+2022,DF,Centro-Oeste,Pública,522.13,529.80,9464,Linguagens e Códigos
+2022,DF,Centro-Oeste,Pública,523.15,512.40,9464,Matemática
+2022,DF,Centro-Oeste,Pública,592.75,600.00,9464,Redação
+2022,ES,Sudeste,Privada,581.48,586.50,3280,Ciências Humanas
+2022,ES,Sudeste,Privada,544.70,547.20,3280,Ciências da Natureza
+2022,ES,Sudeste,Privada,561.71,569.70,3280,Linguagens e Códigos
+2022,ES,Sudeste,Privada,630.98,637.00,3280,Matemática
+2022,ES,Sudeste,Privada,789.57,840.00,3280,Redação
+2022,ES,Sudeste,Pública,530.00,531.50,11965,Ciências Humanas
+2022,ES,Sudeste,Pública,494.11,485.95,11965,Ciências da Natureza
+2022,ES,Sudeste,Pública,516.22,522.60,11965,Linguagens e Códigos
+2022,ES,Sudeste,Pública,544.08,535.30,11965,Matemática
+2022,ES,Sudeste,Pública,630.12,640.00,11965,Redação
+2022,GO,Centro-Oeste,Privada,573.84,579.10,7574,Ciências Humanas
+2022,GO,Centro-Oeste,Privada,537.85,538.50,7574,Ciências da Natureza
+2022,GO,Centro-Oeste,Privada,556.88,564.90,7574,Linguagens e Códigos
+2022,GO,Centro-Oeste,Privada,612.52,617.75,7574,Matemática
+2022,GO,Centro-Oeste,Privada,777.57,820.00,7574,Redação
+2022,GO,Centro-Oeste,Pública,504.61,508.05,20509,Ciências Humanas
+2022,GO,Centro-Oeste,Pública,475.68,467.75,20509,Ciências da Natureza
+2022,GO,Centro-Oeste,Pública,494.75,501.60,20509,Linguagens e Códigos
+2022,GO,Centro-Oeste,Pública,510.55,498.30,20509,Matemática
+2022,GO,Centro-Oeste,Pública,575.08,600.00,20509,Redação
+2022,MA,Nordeste,Privada,556.97,563.10,3196,Ciências Humanas
+2022,MA,Nordeste,Privada,519.27,516.75,3196,Ciências da Natureza
+2022,MA,Nordeste,Privada,539.70,547.60,3196,Linguagens e Códigos
+2022,MA,Nordeste,Privada,588.48,589.10,3196,Matemática
+2022,MA,Nordeste,Privada,767.75,800.00,3196,Redação
+2022,MA,Nordeste,Pública,485.75,487.60,17376,Ciências Humanas
+2022,MA,Nordeste,Pública,466.83,457.60,17376,Ciências da Natureza
+2022,MA,Nordeste,Pública,472.34,475.70,17376,Linguagens e Códigos
+2022,MA,Nordeste,Pública,489.19,472.90,17376,Matemática
+2022,MA,Nordeste,Pública,570.64,600.00,17376,Redação
+2022,MG,Sudeste,Privada,590.13,596.00,18396,Ciências Humanas
+2022,MG,Sudeste,Privada,553.51,556.30,18396,Ciências da Natureza
+2022,MG,Sudeste,Privada,570.39,577.40,18396,Linguagens e Códigos
+2022,MG,Sudeste,Privada,648.49,654.50,18396,Matemática
+2022,MG,Sudeste,Privada,804.91,840.00,18396,Redação
+2022,MG,Sudeste,Pública,531.62,535.10,35130,Ciências Humanas
+2022,MG,Sudeste,Pública,497.21,490.90,35130,Ciências da Natureza
+2022,MG,Sudeste,Pública,521.36,528.80,35130,Linguagens e Códigos
+2022,MG,Sudeste,Pública,551.48,547.10,35130,Matemática
+2022,MG,Sudeste,Pública,623.53,620.00,35130,Redação
+2022,MS,Centro-Oeste,Privada,567.67,575.00,2422,Ciências Humanas
+2022,MS,Centro-Oeste,Privada,541.51,544.35,2422,Ciências da Natureza
+2022,MS,Centro-Oeste,Privada,553.82,562.45,2422,Linguagens e Códigos
+2022,MS,Centro-Oeste,Privada,616.32,624.85,2422,Matemática
+2022,MS,Centro-Oeste,Privada,754.13,780.00,2422,Redação
+2022,MS,Centro-Oeste,Pública,509.92,513.90,6946,Ciências Humanas
+2022,MS,Centro-Oeste,Pública,479.83,470.90,6946,Ciências da Natureza
+2022,MS,Centro-Oeste,Pública,502.69,512.50,6946,Linguagens e Códigos
+2022,MS,Centro-Oeste,Pública,517.53,506.30,6946,Matemática
+2022,MS,Centro-Oeste,Pública,585.79,600.00,6946,Redação
+2022,MT,Centro-Oeste,Privada,562.46,567.90,3134,Ciências Humanas
+2022,MT,Centro-Oeste,Privada,526.00,526.10,3134,Ciências da Natureza
+2022,MT,Centro-Oeste,Privada,545.60,553.30,3134,Linguagens e Códigos
+2022,MT,Centro-Oeste,Privada,601.80,607.90,3134,Matemática
+2022,MT,Centro-Oeste,Privada,761.46,800.00,3134,Redação
+2022,MT,Centro-Oeste,Pública,502.95,507.20,8877,Ciências Humanas
+2022,MT,Centro-Oeste,Pública,476.27,468.50,8877,Ciências da Natureza
+2022,MT,Centro-Oeste,Pública,492.70,499.10,8877,Linguagens e Códigos
+2022,MT,Centro-Oeste,Pública,507.88,495.90,8877,Matemática
+2022,MT,Centro-Oeste,Pública,569.56,600.00,8877,Redação
+2022,PA,Norte,Privada,559.60,564.30,6714,Ciências Humanas
+2022,PA,Norte,Privada,517.29,512.40,6714,Ciências da Natureza
+2022,PA,Norte,Privada,538.43,545.20,6714,Linguagens e Códigos
+2022,PA,Norte,Privada,573.46,575.40,6714,Matemática
+2022,PA,Norte,Privada,768.27,820.00,6714,Redação
+2022,PA,Norte,Pública,492.72,495.30,19304,Ciências Humanas
+2022,PA,Norte,Pública,466.19,457.60,19304,Ciências da Natureza
+2022,PA,Norte,Pública,475.88,480.40,19304,Linguagens e Códigos
+2022,PA,Norte,Pública,485.84,469.80,19304,Matemática
+2022,PA,Norte,Pública,572.92,580.00,19304,Redação
+2022,PB,Nordeste,Privada,566.50,570.30,4558,Ciências Humanas
+2022,PB,Nordeste,Privada,528.48,525.60,4558,Ciências da Natureza
+2022,PB,Nordeste,Privada,547.55,554.60,4558,Linguagens e Códigos
+2022,PB,Nordeste,Privada,600.30,604.35,4558,Matemática
+2022,PB,Nordeste,Privada,777.39,820.00,4558,Redação
+2022,PB,Nordeste,Pública,500.85,502.70,11216,Ciências Humanas
+2022,PB,Nordeste,Pública,474.86,467.40,11216,Ciências da Natureza
+2022,PB,Nordeste,Pública,489.67,494.50,11216,Linguagens e Códigos
+2022,PB,Nordeste,Pública,503.52,487.10,11216,Matemática
+2022,PB,Nordeste,Pública,595.17,620.00,11216,Redação
+2022,PE,Nordeste,Privada,564.84,570.20,8268,Ciências Humanas
+2022,PE,Nordeste,Privada,530.00,528.40,8268,Ciências da Natureza
+2022,PE,Nordeste,Privada,550.59,559.50,8268,Linguagens e Códigos
+2022,PE,Nordeste,Privada,607.19,611.30,8268,Matemática
+2022,PE,Nordeste,Privada,748.77,780.00,8268,Redação
+2022,PE,Nordeste,Pública,504.66,506.20,23996,Ciências Humanas
+2022,PE,Nordeste,Pública,481.11,473.50,23996,Ciências da Natureza
+2022,PE,Nordeste,Pública,496.62,501.50,23996,Linguagens e Códigos
+2022,PE,Nordeste,Pública,521.07,507.80,23996,Matemática
+2022,PE,Nordeste,Pública,585.15,620.00,23996,Redação
+2022,PI,Nordeste,Privada,575.06,580.20,3681,Ciências Humanas
+2022,PI,Nordeste,Privada,540.71,540.90,3681,Ciências da Natureza
+2022,PI,Nordeste,Privada,555.31,563.50,3681,Linguagens e Códigos
+2022,PI,Nordeste,Privada,625.28,629.10,3681,Matemática
+2022,PI,Nordeste,Privada,808.50,860.00,3681,Redação
+2022,PI,Nordeste,Pública,488.76,489.20,9408,Ciências Humanas
+2022,PI,Nordeste,Pública,466.34,457.10,9408,Ciências da Natureza
+2022,PI,Nordeste,Pública,475.09,476.60,9408,Linguagens e Códigos
+2022,PI,Nordeste,Pública,496.76,478.50,9408,Matemática
+2022,PI,Nordeste,Pública,581.63,600.00,9408,Redação
+2022,PR,Sul,Privada,574.57,579.30,12173,Ciências Humanas
+2022,PR,Sul,Privada,542.54,543.60,12173,Ciências da Natureza
+2022,PR,Sul,Privada,560.52,568.50,12173,Linguagens e Códigos
+2022,PR,Sul,Privada,618.38,623.30,12173,Matemática
+2022,PR,Sul,Privada,717.66,720.00,12173,Redação
+2022,PR,Sul,Pública,521.64,525.50,24177,Ciências Humanas
+2022,PR,Sul,Pública,489.37,483.30,24177,Ciências da Natureza
+2022,PR,Sul,Pública,513.12,520.40,24177,Linguagens e Códigos
+2022,PR,Sul,Pública,531.69,526.00,24177,Matemática
+2022,PR,Sul,Pública,582.37,600.00,24177,Redação
+2022,RJ,Sudeste,Privada,577.57,583.00,23202,Ciências Humanas
+2022,RJ,Sudeste,Privada,534.83,535.40,23202,Ciências da Natureza
+2022,RJ,Sudeste,Privada,561.99,570.00,23202,Linguagens e Códigos
+2022,RJ,Sudeste,Privada,615.56,621.80,23202,Matemática
+2022,RJ,Sudeste,Privada,757.89,780.00,23202,Redação
+2022,RJ,Sudeste,Pública,524.11,526.80,28726,Ciências Humanas
+2022,RJ,Sudeste,Pública,486.15,477.50,28726,Ciências da Natureza
+2022,RJ,Sudeste,Pública,518.30,525.80,28726,Linguagens e Códigos
+2022,RJ,Sudeste,Pública,526.95,514.10,28726,Matemática
+2022,RJ,Sudeste,Pública,594.41,600.00,28726,Redação
+2022,RN,Nordeste,Privada,566.77,570.50,3991,Ciências Humanas
+2022,RN,Nordeste,Privada,532.35,530.30,3991,Ciências da Natureza
+2022,RN,Nordeste,Privada,551.52,560.70,3991,Linguagens e Códigos
+2022,RN,Nordeste,Privada,602.58,609.40,3991,Matemática
+2022,RN,Nordeste,Privada,771.35,820.00,3991,Redação
+2022,RN,Nordeste,Pública,514.49,516.70,10072,Ciências Humanas
+2022,RN,Nordeste,Pública,487.25,479.00,10072,Ciências da Natureza
+2022,RN,Nordeste,Pública,507.28,513.50,10072,Linguagens e Códigos
+2022,RN,Nordeste,Pública,523.84,510.30,10072,Matemática
+2022,RN,Nordeste,Pública,616.12,640.00,10072,Redação
+2022,RO,Norte,Privada,554.38,558.90,750,Ciências Humanas
+2022,RO,Norte,Privada,516.81,511.90,750,Ciências da Natureza
+2022,RO,Norte,Privada,539.26,547.10,750,Linguagens e Códigos
+2022,RO,Norte,Privada,586.60,592.90,750,Matemática
+2022,RO,Norte,Privada,730.69,760.00,750,Redação
+2022,RO,Norte,Pública,502.11,506.20,5378,Ciências Humanas
+2022,RO,Norte,Pública,473.04,464.55,5378,Ciências da Natureza
+2022,RO,Norte,Pública,490.30,496.95,5378,Linguagens e Códigos
+2022,RO,Norte,Pública,503.70,491.40,5378,Matemática
+2022,RO,Norte,Pública,586.26,600.00,5378,Redação
+2022,RR,Norte,Privada,556.18,568.45,228,Ciências Humanas
+2022,RR,Norte,Privada,519.05,512.45,228,Ciências da Natureza
+2022,RR,Norte,Privada,549.02,550.15,228,Linguagens e Códigos
+2022,RR,Norte,Privada,573.61,582.30,228,Matemática
+2022,RR,Norte,Privada,700.79,730.00,228,Redação
+2022,RR,Norte,Pública,511.28,514.30,1162,Ciências Humanas
+2022,RR,Norte,Pública,484.40,474.80,1162,Ciências da Natureza
+2022,RR,Norte,Pública,503.86,511.15,1162,Linguagens e Códigos
+2022,RR,Norte,Pública,512.95,501.20,1162,Matemática
+2022,RR,Norte,Pública,568.80,600.00,1162,Redação
+2022,RS,Sul,Privada,579.88,585.50,8790,Ciências Humanas
+2022,RS,Sul,Privada,541.00,544.90,8790,Ciências da Natureza
+2022,RS,Sul,Privada,568.86,575.60,8790,Linguagens e Códigos
+2022,RS,Sul,Privada,626.26,634.20,8790,Matemática
+2022,RS,Sul,Privada,758.78,780.00,8790,Redação
+2022,RS,Sul,Pública,527.91,531.70,22931,Ciências Humanas
+2022,RS,Sul,Pública,492.69,486.50,22931,Ciências da Natureza
+2022,RS,Sul,Pública,523.53,530.80,22931,Linguagens e Códigos
+2022,RS,Sul,Pública,541.79,536.40,22931,Matemática
+2022,RS,Sul,Pública,617.77,620.00,22931,Redação
+2022,SC,Sul,Privada,580.87,586.00,7471,Ciências Humanas
+2022,SC,Sul,Privada,548.41,551.65,7471,Ciências da Natureza
+2022,SC,Sul,Privada,565.03,572.65,7471,Linguagens e Códigos
+2022,SC,Sul,Privada,631.69,637.00,7471,Matemática
+2022,SC,Sul,Privada,741.03,760.00,7471,Redação
+2022,SC,Sul,Pública,529.90,533.90,15732,Ciências Humanas
+2022,SC,Sul,Pública,495.24,491.10,15732,Ciências da Natureza
+2022,SC,Sul,Pública,522.77,530.40,15732,Linguagens e Códigos
+2022,SC,Sul,Pública,542.41,540.45,15732,Matemática
+2022,SC,Sul,Pública,607.07,620.00,15732,Redação
+2022,SE,Nordeste,Privada,568.91,573.80,2734,Ciências Humanas
+2022,SE,Nordeste,Privada,531.24,528.40,2734,Ciências da Natureza
+2022,SE,Nordeste,Privada,549.58,557.90,2734,Linguagens e Códigos
+2022,SE,Nordeste,Privada,598.09,603.15,2734,Matemática
+2022,SE,Nordeste,Privada,783.51,820.00,2734,Redação
+2022,SE,Nordeste,Pública,497.26,498.45,5920,Ciências Humanas
+2022,SE,Nordeste,Pública,470.22,460.50,5920,Ciências da Natureza
+2022,SE,Nordeste,Pública,483.70,486.70,5920,Linguagens e Códigos
+2022,SE,Nordeste,Pública,497.38,482.70,5920,Matemática
+2022,SE,Nordeste,Pública,587.40,600.00,5920,Redação
+2022,SP,Sudeste,Privada,574.72,578.50,57220,Ciências Humanas
+2022,SP,Sudeste,Privada,541.52,541.50,57220,Ciências da Natureza
+2022,SP,Sudeste,Privada,562.59,569.40,57220,Linguagens e Códigos
+2022,SP,Sudeste,Privada,619.05,623.30,57220,Matemática
+2022,SP,Sudeste,Privada,728.82,740.00,57220,Redação
+2022,SP,Sudeste,Pública,527.47,531.90,80274,Ciências Humanas
+2022,SP,Sudeste,Pública,484.23,476.80,80274,Ciências da Natureza
+2022,SP,Sudeste,Pública,526.82,535.00,80274,Linguagens e Códigos
+2022,SP,Sudeste,Pública,541.49,539.90,80274,Matemática
+2022,SP,Sudeste,Pública,592.93,600.00,80274,Redação
+2022,TO,Norte,Privada,569.15,572.80,809,Ciências Humanas
+2022,TO,Norte,Privada,533.95,532.60,809,Ciências da Natureza
+2022,TO,Norte,Privada,553.80,563.20,809,Linguagens e Códigos
+2022,TO,Norte,Privada,606.41,609.30,809,Matemática
+2022,TO,Norte,Privada,767.61,800.00,809,Redação
+2022,TO,Norte,Pública,494.14,495.40,4227,Ciências Humanas
+2022,TO,Norte,Pública,470.30,461.45,4227,Ciências da Natureza
+2022,TO,Norte,Pública,481.89,487.10,4227,Linguagens e Códigos
+2022,TO,Norte,Pública,503.40,489.75,4227,Matemática
+2022,TO,Norte,Pública,575.05,580.00,4227,Redação
+2023,AC,Norte,Privada,571.89,585.45,428,Ciências Humanas
+2023,AC,Norte,Privada,536.79,543.35,428,Ciências da Natureza
+2023,AC,Norte,Privada,560.08,569.80,428,Linguagens e Códigos
+2023,AC,Norte,Privada,607.54,631.60,428,Matemática
+2023,AC,Norte,Privada,803.93,860.00,428,Redação
+2023,AC,Norte,Pública,493.32,498.35,2533,Ciências Humanas
+2023,AC,Norte,Pública,462.72,460.45,2533,Ciências da Natureza
+2023,AC,Norte,Pública,494.72,498.65,2533,Linguagens e Códigos
+2023,AC,Norte,Pública,486.85,471.60,2533,Matemática
+2023,AC,Norte,Pública,582.54,580.00,2533,Redação
+2023,AL,Nordeste,Privada,551.21,557.55,3488,Ciências Humanas
+2023,AL,Nordeste,Privada,521.11,521.20,3488,Ciências da Natureza
+2023,AL,Nordeste,Privada,538.15,542.50,3488,Linguagens e Códigos
+2023,AL,Nordeste,Privada,593.59,599.30,3488,Matemática
+2023,AL,Nordeste,Privada,748.95,800.00,3488,Redação
+2023,AL,Nordeste,Pública,487.35,489.30,10217,Ciências Humanas
+2023,AL,Nordeste,Pública,465.61,460.00,10217,Ciências da Natureza
+2023,AL,Nordeste,Pública,484.64,487.10,10217,Linguagens e Códigos
+2023,AL,Nordeste,Pública,490.14,469.30,10217,Matemática
+2023,AL,Nordeste,Pública,563.21,580.00,10217,Redação
+2023,AM,Norte,Privada,567.77,579.30,1857,Ciências Humanas
+2023,AM,Norte,Privada,536.27,540.80,1857,Ciências da Natureza
+2023,AM,Norte,Privada,556.41,565.70,1857,Linguagens e Códigos
+2023,AM,Norte,Privada,603.81,612.40,1857,Matemática
+2023,AM,Norte,Privada,726.73,760.00,1857,Redação
+2023,AM,Norte,Pública,482.10,484.10,12778,Ciências Humanas
+2023,AM,Norte,Pública,458.39,453.80,12778,Ciências da Natureza
+2023,AM,Norte,Pública,484.31,488.65,12778,Linguagens e Códigos
+2023,AM,Norte,Pública,472.97,454.00,12778,Matemática
+2023,AM,Norte,Pública,524.73,540.00,12778,Redação
+2023,AP,Norte,Privada,554.83,563.50,618,Ciências Humanas
+2023,AP,Norte,Privada,520.35,522.80,618,Ciências da Natureza
+2023,AP,Norte,Privada,546.14,551.60,618,Linguagens e Códigos
+2023,AP,Norte,Privada,572.82,577.80,618,Matemática
+2023,AP,Norte,Privada,743.27,800.00,618,Redação
+2023,AP,Norte,Pública,499.21,503.70,2904,Ciências Humanas
+2023,AP,Norte,Pública,469.65,467.60,2904,Ciências da Natureza
+2023,AP,Norte,Pública,494.63,498.30,2904,Linguagens e Códigos
+2023,AP,Norte,Pública,483.63,467.55,2904,Matemática
+2023,AP,Norte,Pública,608.22,620.00,2904,Redação
+2023,BA,Nordeste,Privada,572.22,581.30,12100,Ciências Humanas
+2023,BA,Nordeste,Privada,542.33,546.10,12100,Ciências da Natureza
+2023,BA,Nordeste,Privada,555.39,561.90,12100,Linguagens e Códigos
+2023,BA,Nordeste,Privada,616.32,630.50,12100,Matemática
+2023,BA,Nordeste,Privada,778.19,820.00,12100,Redação
+2023,BA,Nordeste,Pública,505.09,510.00,22823,Ciências Humanas
+2023,BA,Nordeste,Pública,477.30,473.40,22823,Ciências da Natureza
+2023,BA,Nordeste,Pública,499.79,504.20,22823,Linguagens e Códigos
+2023,BA,Nordeste,Pública,504.17,487.20,22823,Matemática
+2023,BA,Nordeste,Pública,597.68,600.00,22823,Redação
+2023,CE,Nordeste,Privada,577.65,587.25,7230,Ciências Humanas
+2023,CE,Nordeste,Privada,552.50,553.40,7230,Ciências da Natureza
+2023,CE,Nordeste,Privada,559.50,565.20,7230,Linguagens e Códigos
+2023,CE,Nordeste,Privada,642.65,658.20,7230,Matemática
+2023,CE,Nordeste,Privada,799.60,840.00,7230,Redação
+2023,CE,Nordeste,Pública,479.87,481.50,66783,Ciências Humanas
+2023,CE,Nordeste,Pública,458.37,453.60,66783,Ciências da Natureza
+2023,CE,Nordeste,Pública,482.43,487.00,66783,Linguagens e Códigos
+2023,CE,Nordeste,Pública,486.49,463.90,66783,Matemática
+2023,CE,Nordeste,Pública,554.02,580.00,66783,Redação
+2023,DF,Centro-Oeste,Privada,582.26,590.50,6448,Ciências Humanas
+2023,DF,Centro-Oeste,Privada,559.04,560.90,6448,Ciências da Natureza
+2023,DF,Centro-Oeste,Privada,569.53,575.00,6448,Linguagens e Códigos
+2023,DF,Centro-Oeste,Privada,637.37,650.40,6448,Matemática
+2023,DF,Centro-Oeste,Privada,756.31,780.00,6448,Redação
+2023,DF,Centro-Oeste,Pública,521.58,527.70,10177,Ciências Humanas
+2023,DF,Centro-Oeste,Pública,490.92,489.45,10177,Ciências da Natureza
+2023,DF,Centro-Oeste,Pública,520.94,525.40,10177,Linguagens e Códigos
+2023,DF,Centro-Oeste,Pública,521.96,512.30,10177,Matemática
+2023,DF,Centro-Oeste,Pública,604.52,600.00,10177,Redação
+2023,ES,Sudeste,Privada,584.23,592.50,3382,Ciências Humanas
+2023,ES,Sudeste,Privada,560.57,563.95,3382,Ciências da Natureza
+2023,ES,Sudeste,Privada,566.38,571.50,3382,Linguagens e Códigos
+2023,ES,Sudeste,Privada,651.23,666.10,3382,Matemática
+2023,ES,Sudeste,Privada,798.81,840.00,3382,Redação
+2023,ES,Sudeste,Pública,528.27,535.40,12632,Ciências Humanas
+2023,ES,Sudeste,Pública,500.70,499.50,12632,Ciências da Natureza
+2023,ES,Sudeste,Pública,522.34,526.80,12632,Linguagens e Códigos
+2023,ES,Sudeste,Pública,550.05,548.60,12632,Matemática
+2023,ES,Sudeste,Pública,640.44,640.00,12632,Redação
+2023,GO,Centro-Oeste,Privada,575.07,583.30,7672,Ciências Humanas
+2023,GO,Centro-Oeste,Privada,557.82,561.60,7672,Ciências da Natureza
+2023,GO,Centro-Oeste,Privada,559.69,565.80,7672,Linguagens e Códigos
+2023,GO,Centro-Oeste,Privada,632.90,647.90,7672,Matemática
+2023,GO,Centro-Oeste,Privada,793.95,840.00,7672,Redação
+2023,GO,Centro-Oeste,Pública,504.44,511.60,20866,Ciências Humanas
+2023,GO,Centro-Oeste,Pública,479.10,478.30,20866,Ciências da Natureza
+2023,GO,Centro-Oeste,Pública,502.59,507.90,20866,Linguagens e Códigos
+2023,GO,Centro-Oeste,Pública,510.91,497.70,20866,Matemática
+2023,GO,Centro-Oeste,Pública,596.02,600.00,20866,Redação
+2023,MA,Nordeste,Privada,559.33,568.20,3337,Ciências Humanas
+2023,MA,Nordeste,Privada,528.86,529.85,3337,Ciências da Natureza
+2023,MA,Nordeste,Privada,546.26,551.80,3337,Linguagens e Códigos
+2023,MA,Nordeste,Privada,600.34,610.50,3337,Matemática
+2023,MA,Nordeste,Privada,787.32,840.00,3337,Redação
+2023,MA,Nordeste,Pública,479.70,480.55,20145,Ciências Humanas
+2023,MA,Nordeste,Pública,455.54,450.90,20145,Ciências da Natureza
+2023,MA,Nordeste,Pública,476.18,479.00,20145,Linguagens e Códigos
+2023,MA,Nordeste,Pública,470.74,450.20,20145,Matemática
+2023,MA,Nordeste,Pública,570.75,580.00,20145,Redação
+2023,MG,Sudeste,Privada,593.02,600.10,18360,Ciências Humanas
+2023,MG,Sudeste,Privada,569.84,572.70,18360,Ciências da Natureza
+2023,MG,Sudeste,Privada,573.20,578.90,18360,Linguagens e Códigos
+2023,MG,Sudeste,Privada,670.68,683.80,18360,Matemática
+2023,MG,Sudeste,Privada,817.69,860.00,18360,Redação
+2023,MG,Sudeste,Pública,530.39,537.40,34432,Ciências Humanas
+2023,MG,Sudeste,Pública,501.71,501.90,34432,Ciências da Natureza
+2023,MG,Sudeste,Pública,523.78,528.70,34432,Linguagens e Códigos
+2023,MG,Sudeste,Pública,552.43,551.00,34432,Matemática
+2023,MG,Sudeste,Pública,636.09,640.00,34432,Redação
+2023,MS,Centro-Oeste,Privada,568.31,577.90,2505,Ciências Humanas
+2023,MS,Centro-Oeste,Privada,551.42,555.05,2505,Ciências da Natureza
+2023,MS,Centro-Oeste,Privada,553.61,561.30,2505,Linguagens e Códigos
+2023,MS,Centro-Oeste,Privada,626.19,643.50,2505,Matemática
+2023,MS,Centro-Oeste,Privada,756.30,780.00,2505,Redação
+2023,MS,Centro-Oeste,Pública,510.61,517.85,6734,Ciências Humanas
+2023,MS,Centro-Oeste,Pública,482.80,482.30,6734,Ciências da Natureza
+2023,MS,Centro-Oeste,Pública,508.04,513.20,6734,Linguagens e Códigos
+2023,MS,Centro-Oeste,Pública,513.47,501.90,6734,Matemática
+2023,MS,Centro-Oeste,Pública,582.25,600.00,6734,Redação
+2023,MT,Centro-Oeste,Privada,568.94,578.40,3142,Ciências Humanas
+2023,MT,Centro-Oeste,Privada,543.78,547.70,3142,Ciências da Natureza
+2023,MT,Centro-Oeste,Privada,550.69,557.55,3142,Linguagens e Códigos
+2023,MT,Centro-Oeste,Privada,621.08,638.60,3142,Matemática
+2023,MT,Centro-Oeste,Privada,782.88,840.00,3142,Redação
+2023,MT,Centro-Oeste,Pública,502.64,510.30,9092,Ciências Humanas
+2023,MT,Centro-Oeste,Pública,478.01,476.50,9092,Ciências da Natureza
+2023,MT,Centro-Oeste,Pública,500.08,505.40,9092,Linguagens e Códigos
+2023,MT,Centro-Oeste,Pública,501.44,487.50,9092,Matemática
+2023,MT,Centro-Oeste,Pública,573.19,580.00,9092,Redação
+2023,PA,Norte,Privada,561.61,571.00,7168,Ciências Humanas
+2023,PA,Norte,Privada,530.21,535.60,7168,Ciências da Natureza
+2023,PA,Norte,Privada,543.64,549.70,7168,Linguagens e Códigos
+2023,PA,Norte,Privada,584.97,591.20,7168,Matemática
+2023,PA,Norte,Privada,786.92,840.00,7168,Redação
+2023,PA,Norte,Pública,489.49,493.00,20666,Ciências Humanas
+2023,PA,Norte,Pública,464.57,460.55,20666,Ciências da Natureza
+2023,PA,Norte,Pública,484.37,486.80,20666,Linguagens e Códigos
+2023,PA,Norte,Pública,480.29,462.50,20666,Matemática
+2023,PA,Norte,Pública,585.83,600.00,20666,Redação
+2023,PB,Nordeste,Privada,569.52,577.90,4635,Ciências Humanas
+2023,PB,Nordeste,Privada,540.71,542.40,4635,Ciências da Natureza
+2023,PB,Nordeste,Privada,552.38,558.90,4635,Linguagens e Códigos
+2023,PB,Nordeste,Privada,617.83,629.40,4635,Matemática
+2023,PB,Nordeste,Privada,794.72,840.00,4635,Redação
+2023,PB,Nordeste,Pública,492.89,496.60,13251,Ciências Humanas
+2023,PB,Nordeste,Pública,469.13,464.70,13251,Ciências da Natureza
+2023,PB,Nordeste,Pública,491.78,495.30,13251,Linguagens e Códigos
+2023,PB,Nordeste,Pública,492.13,474.60,13251,Matemática
+2023,PB,Nordeste,Pública,598.25,620.00,13251,Redação
+2023,PE,Nordeste,Privada,566.38,575.70,8382,Ciências Humanas
+2023,PE,Nordeste,Privada,539.13,542.20,8382,Ciências da Natureza
+2023,PE,Nordeste,Privada,553.86,559.60,8382,Linguagens e Códigos
+2023,PE,Nordeste,Privada,622.56,634.40,8382,Matemática
+2023,PE,Nordeste,Privada,766.26,800.00,8382,Redação
+2023,PE,Nordeste,Pública,499.68,503.50,26514,Ciências Humanas
+2023,PE,Nordeste,Pública,476.32,472.40,26514,Ciências da Natureza
+2023,PE,Nordeste,Pública,499.15,501.90,26514,Linguagens e Códigos
+2023,PE,Nordeste,Pública,515.04,502.50,26514,Matemática
+2023,PE,Nordeste,Pública,604.35,620.00,26514,Redação
+2023,PI,Nordeste,Privada,574.56,583.90,3680,Ciências Humanas
+2023,PI,Nordeste,Privada,553.64,554.80,3680,Ciências da Natureza
+2023,PI,Nordeste,Privada,562.62,569.30,3680,Linguagens e Códigos
+2023,PI,Nordeste,Privada,633.44,646.10,3680,Matemática
+2023,PI,Nordeste,Privada,826.12,880.00,3680,Redação
+2023,PI,Nordeste,Pública,479.64,482.25,10888,Ciências Humanas
+2023,PI,Nordeste,Pública,458.71,454.80,10888,Ciências da Natureza
+2023,PI,Nordeste,Pública,479.52,482.50,10888,Linguagens e Códigos
+2023,PI,Nordeste,Pública,481.88,460.00,10888,Matemática
+2023,PI,Nordeste,Pública,581.82,600.00,10888,Redação
+2023,PR,Sul,Privada,575.34,583.00,12337,Ciências Humanas
+2023,PR,Sul,Privada,556.42,559.70,12337,Ciências da Natureza
+2023,PR,Sul,Privada,562.58,568.30,12337,Linguagens e Códigos
+2023,PR,Sul,Privada,636.88,650.80,12337,Matemática
+2023,PR,Sul,Privada,724.08,740.00,12337,Redação
+2023,PR,Sul,Pública,518.55,525.10,27483,Ciências Humanas
+2023,PR,Sul,Pública,489.74,490.00,27483,Ciências da Natureza
+2023,PR,Sul,Pública,518.94,524.40,27483,Linguagens e Códigos
+2023,PR,Sul,Pública,528.25,521.90,27483,Matemática
+2023,PR,Sul,Pública,572.77,580.00,27483,Redação
+2023,RJ,Sudeste,Privada,578.40,586.40,23351,Ciências Humanas
+2023,RJ,Sudeste,Privada,547.07,550.40,23351,Ciências da Natureza
+2023,RJ,Sudeste,Privada,561.41,568.40,23351,Linguagens e Códigos
+2023,RJ,Sudeste,Privada,632.60,648.10,23351,Matemática
+2023,RJ,Sudeste,Privada,765.48,800.00,23351,Redação
+2023,RJ,Sudeste,Pública,518.85,525.30,26006,Ciências Humanas
+2023,RJ,Sudeste,Pública,488.34,487.20,26006,Ciências da Natureza
+2023,RJ,Sudeste,Pública,515.61,520.90,26006,Linguagens e Códigos
+2023,RJ,Sudeste,Pública,522.86,513.30,26006,Matemática
+2023,RJ,Sudeste,Pública,596.68,600.00,26006,Redação
+2023,RN,Nordeste,Privada,573.22,581.90,4291,Ciências Humanas
+2023,RN,Nordeste,Privada,543.74,544.50,4291,Ciências da Natureza
+2023,RN,Nordeste,Privada,557.39,562.60,4291,Linguagens e Códigos
+2023,RN,Nordeste,Privada,622.11,633.90,4291,Matemática
+2023,RN,Nordeste,Privada,791.85,840.00,4291,Redação
+2023,RN,Nordeste,Pública,517.67,523.00,10430,Ciências Humanas
+2023,RN,Nordeste,Pública,489.14,486.25,10430,Ciências da Natureza
+2023,RN,Nordeste,Pública,514.37,518.80,10430,Linguagens e Códigos
+2023,RN,Nordeste,Pública,526.85,514.30,10430,Matemática
+2023,RN,Nordeste,Pública,633.22,640.00,10430,Redação
+2023,RO,Norte,Privada,552.28,557.20,788,Ciências Humanas
+2023,RO,Norte,Privada,529.68,531.40,788,Ciências da Natureza
+2023,RO,Norte,Privada,541.06,546.25,788,Linguagens e Códigos
+2023,RO,Norte,Privada,596.98,607.50,788,Matemática
+2023,RO,Norte,Privada,733.25,760.00,788,Redação
+2023,RO,Norte,Pública,497.36,502.00,6234,Ciências Humanas
+2023,RO,Norte,Pública,474.50,473.30,6234,Ciências da Natureza
+2023,RO,Norte,Pública,493.65,497.90,6234,Linguagens e Códigos
+2023,RO,Norte,Pública,499.51,483.60,6234,Matemática
+2023,RO,Norte,Pública,595.32,600.00,6234,Redação
+2023,RR,Norte,Privada,557.45,564.50,279,Ciências Humanas
+2023,RR,Norte,Privada,533.57,543.10,279,Ciências da Natureza
+2023,RR,Norte,Privada,547.82,552.80,279,Linguagens e Códigos
+2023,RR,Norte,Privada,580.95,579.50,279,Matemática
+2023,RR,Norte,Privada,701.51,720.00,279,Redação
+2023,RR,Norte,Pública,513.75,519.40,1308,Ciências Humanas
+2023,RR,Norte,Pública,482.34,481.30,1308,Ciências da Natureza
+2023,RR,Norte,Pública,513.21,517.30,1308,Linguagens e Códigos
+2023,RR,Norte,Pública,515.56,505.70,1308,Matemática
+2023,RR,Norte,Pública,589.14,600.00,1308,Redação
+2023,RS,Sul,Privada,582.26,589.50,9432,Ciências Humanas
+2023,RS,Sul,Privada,552.45,555.30,9432,Ciências da Natureza
+2023,RS,Sul,Privada,571.86,577.70,9432,Linguagens e Códigos
+2023,RS,Sul,Privada,644.19,658.40,9432,Matemática
+2023,RS,Sul,Privada,766.56,800.00,9432,Redação
+2023,RS,Sul,Pública,530.89,537.80,22620,Ciências Humanas
+2023,RS,Sul,Pública,499.13,499.50,22620,Ciências da Natureza
+2023,RS,Sul,Pública,529.78,534.50,22620,Linguagens e Códigos
+2023,RS,Sul,Pública,550.57,548.90,22620,Matemática
+2023,RS,Sul,Pública,625.71,620.00,22620,Redação
+2023,SC,Sul,Privada,584.33,592.10,7800,Ciências Humanas
+2023,SC,Sul,Privada,563.50,567.50,7800,Ciências da Natureza
+2023,SC,Sul,Privada,570.48,576.70,7800,Linguagens e Códigos
+2023,SC,Sul,Privada,654.58,669.85,7800,Matemática
+2023,SC,Sul,Privada,748.62,780.00,7800,Redação
+2023,SC,Sul,Pública,530.71,539.10,16070,Ciências Humanas
+2023,SC,Sul,Pública,499.10,501.30,16070,Ciências da Natureza
+2023,SC,Sul,Pública,524.34,529.80,16070,Linguagens e Códigos
+2023,SC,Sul,Pública,542.76,541.00,16070,Matemática
+2023,SC,Sul,Pública,612.01,620.00,16070,Redação
+2023,SE,Nordeste,Privada,570.28,579.00,2608,Ciências Humanas
+2023,SE,Nordeste,Privada,539.86,540.15,2608,Ciências da Natureza
+2023,SE,Nordeste,Privada,556.28,563.05,2608,Linguagens e Códigos
+2023,SE,Nordeste,Privada,612.02,625.30,2608,Matemática
+2023,SE,Nordeste,Privada,794.92,840.00,2608,Redação
+2023,SE,Nordeste,Pública,488.37,492.40,6098,Ciências Humanas
+2023,SE,Nordeste,Pública,467.24,462.70,6098,Ciências da Natureza
+2023,SE,Nordeste,Pública,485.54,487.90,6098,Linguagens e Códigos
+2023,SE,Nordeste,Pública,486.02,467.90,6098,Matemática
+2023,SE,Nordeste,Pública,610.35,640.00,6098,Redação
+2023,SP,Sudeste,Privada,575.25,582.60,58538,Ciências Humanas
+2023,SP,Sudeste,Privada,551.57,554.30,58538,Ciências da Natureza
+2023,SP,Sudeste,Privada,562.91,568.60,58538,Linguagens e Códigos
+2023,SP,Sudeste,Privada,636.86,650.70,58538,Matemática
+2023,SP,Sudeste,Privada,734.42,760.00,58538,Redação
+2023,SP,Sudeste,Pública,524.99,533.20,82977,Ciências Humanas
+2023,SP,Sudeste,Pública,489.18,489.50,82977,Ciências da Natureza
+2023,SP,Sudeste,Pública,526.20,532.10,82977,Linguagens e Códigos
+2023,SP,Sudeste,Pública,538.61,536.30,82977,Matemática
+2023,SP,Sudeste,Pública,597.28,600.00,82977,Redação
+2023,TO,Norte,Privada,572.46,580.70,883,Ciências Humanas
+2023,TO,Norte,Privada,550.50,552.40,883,Ciências da Natureza
+2023,TO,Norte,Privada,560.22,567.10,883,Linguagens e Códigos
+2023,TO,Norte,Privada,623.66,635.90,883,Matemática
+2023,TO,Norte,Privada,785.84,820.00,883,Redação
+2023,TO,Norte,Pública,488.81,493.70,4023,Ciências Humanas
+2023,TO,Norte,Pública,466.58,461.80,4023,Ciências da Natureza
+2023,TO,Norte,Pública,488.37,493.00,4023,Linguagens e Códigos
+2023,TO,Norte,Pública,489.24,470.20,4023,Matemática
+2023,TO,Norte,Pública,566.45,580.00,4023,Redação
+2024,AC,Norte,Privada,553.10,565.50,523,Ciências Humanas
+2024,AC,Norte,Privada,533.97,541.20,523,Ciências da Natureza
+2024,AC,Norte,Privada,551.75,562.30,523,Linguagens e Códigos
+2024,AC,Norte,Privada,587.66,593.20,523,Matemática
+2024,AC,Norte,Privada,769.25,840.00,523,Redação
+2024,AC,Norte,Pública,474.59,475.50,5679,Ciências Humanas
+2024,AC,Norte,Pública,460.74,455.55,5679,Ciências da Natureza
+2024,AC,Norte,Pública,494.19,500.95,5679,Linguagens e Códigos
+2024,AC,Norte,Pública,475.00,453.60,5679,Matemática
+2024,AC,Norte,Pública,587.35,600.00,5679,Redação
+2024,AL,Nordeste,Privada,544.48,552.70,3879,Ciências Humanas
+2024,AL,Nordeste,Privada,520.03,521.80,3879,Ciências da Natureza
+2024,AL,Nordeste,Privada,545.94,552.10,3879,Linguagens e Códigos
+2024,AL,Nordeste,Privada,580.19,582.50,3879,Matemática
+2024,AL,Nordeste,Privada,758.23,800.00,3879,Redação
+2024,AL,Nordeste,Pública,453.94,448.40,21187,Ciências Humanas
+2024,AL,Nordeste,Pública,451.87,443.30,21187,Ciências da Natureza
+2024,AL,Nordeste,Pública,477.92,482.80,21187,Linguagens e Códigos
+2024,AL,Nordeste,Pública,473.55,450.80,21187,Matemática
+2024,AL,Nordeste,Pública,527.90,560.00,21187,Redação
+2024,AM,Norte,Privada,564.47,577.10,2056,Ciências Humanas
+2024,AM,Norte,Privada,538.14,542.90,2056,Ciências da Natureza
+2024,AM,Norte,Privada,560.98,569.10,2056,Linguagens e Códigos
+2024,AM,Norte,Privada,587.85,591.70,2056,Matemática
+2024,AM,Norte,Privada,733.96,760.00,2056,Redação
+2024,AM,Norte,Pública,462.55,459.10,23683,Ciências Humanas
+2024,AM,Norte,Pública,454.60,447.80,23683,Ciências da Natureza
+2024,AM,Norte,Pública,484.43,493.20,23683,Linguagens e Códigos
+2024,AM,Norte,Pública,462.64,441.40,23683,Matemática
+2024,AM,Norte,Pública,521.91,560.00,23683,Redação
+2024,AP,Norte,Privada,548.60,559.45,746,Ciências Humanas
+2024,AP,Norte,Privada,523.32,526.20,746,Ciências da Natureza
+2024,AP,Norte,Privada,547.00,558.10,746,Linguagens e Códigos
+2024,AP,Norte,Privada,559.83,548.35,746,Matemática
+2024,AP,Norte,Privada,762.23,820.00,746,Redação
+2024,AP,Norte,Pública,468.79,467.20,5803,Ciências Humanas
+2024,AP,Norte,Pública,458.76,454.00,5803,Ciências da Natureza
+2024,AP,Norte,Pública,489.68,496.80,5803,Linguagens e Códigos
+2024,AP,Norte,Pública,463.71,443.10,5803,Matemática
+2024,AP,Norte,Pública,583.47,600.00,5803,Redação
+2024,BA,Nordeste,Privada,562.58,572.40,13728,Ciências Humanas
+2024,BA,Nordeste,Privada,535.06,541.60,13728,Ciências da Natureza
+2024,BA,Nordeste,Privada,556.62,562.40,13728,Linguagens e Códigos
+2024,BA,Nordeste,Privada,595.94,607.10,13728,Matemática
+2024,BA,Nordeste,Privada,776.29,820.00,13728,Redação
+2024,BA,Nordeste,Pública,467.10,464.30,79270,Ciências Humanas
+2024,BA,Nordeste,Pública,456.26,448.50,79270,Ciências da Natureza
+2024,BA,Nordeste,Pública,488.71,495.20,79270,Linguagens e Códigos
+2024,BA,Nordeste,Pública,473.00,449.90,79270,Matemática
+2024,BA,Nordeste,Pública,554.21,580.00,79270,Redação
+2024,CE,Nordeste,Privada,575.78,584.40,7803,Ciências Humanas
+2024,CE,Nordeste,Privada,549.77,554.50,7803,Ciências da Natureza
+2024,CE,Nordeste,Privada,562.57,568.70,7803,Linguagens e Códigos
+2024,CE,Nordeste,Privada,624.89,635.30,7803,Matemática
+2024,CE,Nordeste,Privada,804.04,840.00,7803,Redação
+2024,CE,Nordeste,Pública,473.65,471.60,79065,Ciências Humanas
+2024,CE,Nordeste,Pública,461.58,453.90,79065,Ciências da Natureza
+2024,CE,Nordeste,Pública,493.71,501.20,79065,Linguagens e Códigos
+2024,CE,Nordeste,Pública,495.75,468.10,79065,Matemática
+2024,CE,Nordeste,Pública,572.86,620.00,79065,Redação
+2024,DF,Centro-Oeste,Privada,581.95,591.70,6344,Ciências Humanas
+2024,DF,Centro-Oeste,Privada,562.95,570.30,6344,Ciências da Natureza
+2024,DF,Centro-Oeste,Privada,575.77,582.75,6344,Linguagens e Códigos
+2024,DF,Centro-Oeste,Privada,626.60,641.90,6344,Matemática
+2024,DF,Centro-Oeste,Privada,771.68,800.00,6344,Redação
+2024,DF,Centro-Oeste,Pública,503.94,509.10,13651,Ciências Humanas
+2024,DF,Centro-Oeste,Pública,482.86,478.60,13651,Ciências da Natureza
+2024,DF,Centro-Oeste,Pública,524.85,530.50,13651,Linguagens e Códigos
+2024,DF,Centro-Oeste,Pública,501.53,476.60,13651,Matemática
+2024,DF,Centro-Oeste,Pública,617.73,620.00,13651,Redação
+2024,ES,Sudeste,Privada,577.17,585.70,3588,Ciências Humanas
+2024,ES,Sudeste,Privada,558.37,565.35,3588,Ciências da Natureza
+2024,ES,Sudeste,Privada,567.44,573.20,3588,Linguagens e Códigos
+2024,ES,Sudeste,Privada,627.28,645.40,3588,Matemática
+2024,ES,Sudeste,Privada,792.18,840.00,3588,Redação
+2024,ES,Sudeste,Pública,510.69,516.40,19807,Ciências Humanas
+2024,ES,Sudeste,Pública,490.63,487.20,19807,Ciências da Natureza
+2024,ES,Sudeste,Pública,524.19,530.60,19807,Linguagens e Códigos
+2024,ES,Sudeste,Pública,525.46,506.30,19807,Matemática
+2024,ES,Sudeste,Pública,643.65,660.00,19807,Redação
+2024,GO,Centro-Oeste,Privada,572.03,579.60,7644,Ciências Humanas
+2024,GO,Centro-Oeste,Privada,554.54,560.60,7644,Ciências da Natureza
+2024,GO,Centro-Oeste,Privada,564.13,568.80,7644,Linguagens e Códigos
+2024,GO,Centro-Oeste,Privada,616.64,627.50,7644,Matemática
+2024,GO,Centro-Oeste,Privada,789.81,840.00,7644,Redação
+2024,GO,Centro-Oeste,Pública,486.91,490.10,36436,Ciências Humanas
+2024,GO,Centro-Oeste,Pública,470.71,465.00,36436,Ciências da Natureza
+2024,GO,Centro-Oeste,Pública,505.59,513.60,36436,Linguagens e Códigos
+2024,GO,Centro-Oeste,Pública,498.66,474.80,36436,Matemática
+2024,GO,Centro-Oeste,Pública,619.50,640.00,36436,Redação
+2024,MA,Nordeste,Privada,550.86,558.20,3903,Ciências Humanas
+2024,MA,Nordeste,Privada,523.50,525.50,3903,Ciências da Natureza
+2024,MA,Nordeste,Privada,545.00,551.40,3903,Linguagens e Códigos
+2024,MA,Nordeste,Privada,582.07,582.60,3903,Matemática
+2024,MA,Nordeste,Privada,781.77,840.00,3903,Redação
+2024,MA,Nordeste,Pública,460.39,456.10,39621,Ciências Humanas
+2024,MA,Nordeste,Pública,453.26,445.40,39621,Ciências da Natureza
+2024,MA,Nordeste,Pública,481.68,487.60,39621,Linguagens e Códigos
+2024,MA,Nordeste,Pública,470.72,447.60,39621,Matemática
+2024,MA,Nordeste,Pública,573.50,600.00,39621,Redação
+2024,MG,Sudeste,Privada,592.10,598.70,21323,Ciências Humanas
+2024,MG,Sudeste,Privada,568.74,575.70,21323,Ciências da Natureza
+2024,MG,Sudeste,Privada,576.87,581.70,21323,Linguagens e Códigos
+2024,MG,Sudeste,Privada,653.56,666.40,21323,Matemática
+2024,MG,Sudeste,Privada,818.73,860.00,21323,Redação
+2024,MG,Sudeste,Pública,505.43,510.70,79841,Ciências Humanas
+2024,MG,Sudeste,Pública,482.67,478.50,79841,Ciências da Natureza
+2024,MG,Sudeste,Pública,520.61,526.80,79841,Linguagens e Códigos
+2024,MG,Sudeste,Pública,517.13,495.40,79841,Matemática
+2024,MG,Sudeste,Pública,644.29,640.00,79841,Redação
+2024,MS,Centro-Oeste,Privada,573.07,582.45,2729,Ciências Humanas
+2024,MS,Centro-Oeste,Privada,557.03,564.10,2729,Ciências da Natureza
+2024,MS,Centro-Oeste,Privada,565.57,570.90,2729,Linguagens e Códigos
+2024,MS,Centro-Oeste,Privada,623.83,637.50,2729,Matemática
+2024,MS,Centro-Oeste,Privada,770.16,800.00,2729,Redação
+2024,MS,Centro-Oeste,Pública,491.55,495.70,11732,Ciências Humanas
+2024,MS,Centro-Oeste,Pública,475.17,470.70,11732,Ciências da Natureza
+2024,MS,Centro-Oeste,Pública,509.25,516.30,11732,Linguagens e Códigos
+2024,MS,Centro-Oeste,Pública,496.79,473.80,11732,Matemática
+2024,MS,Centro-Oeste,Pública,589.44,600.00,11732,Redação
+2024,MT,Centro-Oeste,Privada,557.53,567.25,3278,Ciências Humanas
+2024,MT,Centro-Oeste,Privada,539.19,544.50,3278,Ciências da Natureza
+2024,MT,Centro-Oeste,Privada,552.91,559.90,3278,Linguagens e Códigos
+2024,MT,Centro-Oeste,Privada,599.64,608.70,3278,Matemática
+2024,MT,Centro-Oeste,Privada,776.41,820.00,3278,Redação
+2024,MT,Centro-Oeste,Pública,482.63,485.00,14927,Ciências Humanas
+2024,MT,Centro-Oeste,Pública,471.13,465.70,14927,Ciências da Natureza
+2024,MT,Centro-Oeste,Pública,502.91,511.60,14927,Linguagens e Códigos
+2024,MT,Centro-Oeste,Pública,486.76,462.00,14927,Matemática
+2024,MT,Centro-Oeste,Pública,586.99,600.00,14927,Redação
+2024,PA,Norte,Privada,552.21,562.00,7715,Ciências Humanas
+2024,PA,Norte,Privada,525.91,529.70,7715,Ciências da Natureza
+2024,PA,Norte,Privada,547.25,554.00,7715,Linguagens e Códigos
+2024,PA,Norte,Privada,570.25,569.20,7715,Matemática
+2024,PA,Norte,Privada,779.19,840.00,7715,Redação
+2024,PA,Norte,Pública,461.12,458.00,48924,Ciências Humanas
+2024,PA,Norte,Pública,454.41,447.70,48924,Ciências da Natureza
+2024,PA,Norte,Pública,480.67,487.40,48924,Linguagens e Códigos
+2024,PA,Norte,Pública,466.76,445.30,48924,Matemática
+2024,PA,Norte,Pública,570.36,600.00,48924,Redação
+2024,PB,Nordeste,Privada,563.72,570.25,5005,Ciências Humanas
+2024,PB,Nordeste,Privada,534.87,539.70,5005,Ciências da Natureza
+2024,PB,Nordeste,Privada,555.50,559.80,5005,Linguagens e Códigos
+2024,PB,Nordeste,Privada,600.21,607.45,5005,Matemática
+2024,PB,Nordeste,Privada,803.27,840.00,5005,Redação
+2024,PB,Nordeste,Pública,476.94,475.90,23621,Ciências Humanas
+2024,PB,Nordeste,Pública,462.19,454.90,23621,Ciências da Natureza
+2024,PB,Nordeste,Pública,496.77,503.40,23621,Linguagens e Códigos
+2024,PB,Nordeste,Pública,486.61,461.80,23621,Matemática
+2024,PB,Nordeste,Pública,597.82,640.00,23621,Redação
+2024,PE,Nordeste,Privada,562.16,571.60,9497,Ciências Humanas
+2024,PE,Nordeste,Privada,535.69,538.90,9497,Ciências da Natureza
+2024,PE,Nordeste,Privada,558.33,563.80,9497,Linguagens e Códigos
+2024,PE,Nordeste,Privada,607.40,615.70,9497,Matemática
+2024,PE,Nordeste,Privada,770.12,800.00,9497,Redação
+2024,PE,Nordeste,Pública,478.25,477.90,54721,Ciências Humanas
+2024,PE,Nordeste,Pública,463.36,455.90,54721,Ciências da Natureza
+2024,PE,Nordeste,Pública,500.22,507.40,54721,Linguagens e Códigos
+2024,PE,Nordeste,Pública,496.07,470.30,54721,Matemática
+2024,PE,Nordeste,Pública,587.99,620.00,54721,Redação
+2024,PI,Nordeste,Privada,572.19,581.40,3673,Ciências Humanas
+2024,PI,Nordeste,Privada,546.54,549.60,3673,Ciências da Natureza
+2024,PI,Nordeste,Privada,563.92,570.40,3673,Linguagens e Códigos
+2024,PI,Nordeste,Privada,622.85,632.10,3673,Matemática
+2024,PI,Nordeste,Privada,830.48,880.00,3673,Redação
+2024,PI,Nordeste,Pública,465.79,462.80,23969,Ciências Humanas
+2024,PI,Nordeste,Pública,456.68,450.10,23969,Ciências da Natureza
+2024,PI,Nordeste,Pública,489.91,494.10,23969,Linguagens e Códigos
+2024,PI,Nordeste,Pública,485.46,459.40,23969,Matemática
+2024,PI,Nordeste,Pública,608.50,620.00,23969,Redação
+2024,PR,Sul,Privada,571.81,578.80,14179,Ciências Humanas
+2024,PR,Sul,Privada,558.06,564.70,14179,Ciências da Natureza
+2024,PR,Sul,Privada,568.08,573.70,14179,Linguagens e Códigos
+2024,PR,Sul,Privada,618.75,632.80,14179,Matemática
+2024,PR,Sul,Privada,737.86,760.00,14179,Redação
+2024,PR,Sul,Pública,502.89,508.70,50667,Ciências Humanas
+2024,PR,Sul,Pública,484.47,482.80,50667,Ciências da Natureza
+2024,PR,Sul,Pública,524.22,530.30,50667,Linguagens e Códigos
+2024,PR,Sul,Pública,506.04,484.60,50667,Matemática
+2024,PR,Sul,Pública,598.30,600.00,50667,Redação
+2024,RJ,Sudeste,Privada,571.81,579.40,27565,Ciências Humanas
+2024,RJ,Sudeste,Privada,544.15,550.60,27565,Ciências da Natureza
+2024,RJ,Sudeste,Privada,565.36,571.10,27565,Linguagens e Códigos
+2024,RJ,Sudeste,Privada,613.68,626.60,27565,Matemática
+2024,RJ,Sudeste,Privada,766.53,800.00,27565,Redação
+2024,RJ,Sudeste,Pública,493.17,497.10,49953,Ciências Humanas
+2024,RJ,Sudeste,Pública,472.52,466.60,49953,Ciências da Natureza
+2024,RJ,Sudeste,Pública,514.54,521.80,49953,Linguagens e Códigos
+2024,RJ,Sudeste,Pública,496.51,472.30,49953,Matemática
+2024,RJ,Sudeste,Pública,586.88,600.00,49953,Redação
+2024,RN,Nordeste,Privada,565.66,572.45,4256,Ciências Humanas
+2024,RN,Nordeste,Privada,538.47,542.25,4256,Ciências da Natureza
+2024,RN,Nordeste,Privada,556.75,562.20,4256,Linguagens e Códigos
+2024,RN,Nordeste,Privada,599.30,610.40,4256,Matemática
+2024,RN,Nordeste,Privada,786.80,840.00,4256,Redação
+2024,RN,Nordeste,Pública,491.58,493.85,20430,Ciências Humanas
+2024,RN,Nordeste,Pública,477.58,472.00,20430,Ciências da Natureza
+2024,RN,Nordeste,Pública,510.13,516.10,20430,Linguagens e Códigos
+2024,RN,Nordeste,Pública,502.23,473.80,20430,Matemática
+2024,RN,Nordeste,Pública,617.82,640.00,20430,Redação
+2024,RO,Norte,Privada,542.60,552.00,1093,Ciências Humanas
+2024,RO,Norte,Privada,528.27,534.40,1093,Ciências da Natureza
+2024,RO,Norte,Privada,545.31,551.70,1093,Linguagens e Códigos
+2024,RO,Norte,Privada,573.56,578.20,1093,Matemática
+2024,RO,Norte,Privada,737.73,780.00,1093,Redação
+2024,RO,Norte,Pública,477.39,478.70,9654,Ciências Humanas
+2024,RO,Norte,Pública,470.39,466.20,9654,Ciências da Natureza
+2024,RO,Norte,Pública,496.12,503.40,9654,Linguagens e Códigos
+2024,RO,Norte,Pública,487.55,464.15,9654,Matemática
+2024,RO,Norte,Pública,607.24,640.00,9654,Redação
+2024,RR,Norte,Privada,555.24,562.65,360,Ciências Humanas
+2024,RR,Norte,Privada,536.55,539.70,360,Ciências da Natureza
+2024,RR,Norte,Privada,552.88,559.00,360,Linguagens e Códigos
+2024,RR,Norte,Privada,567.17,566.75,360,Matemática
+2024,RR,Norte,Privada,715.83,740.00,360,Redação
+2024,RR,Norte,Pública,481.86,482.70,3202,Ciências Humanas
+2024,RR,Norte,Pública,470.89,462.35,3202,Ciências da Natureza
+2024,RR,Norte,Pública,499.92,507.10,3202,Linguagens e Códigos
+2024,RR,Norte,Pública,480.98,459.50,3202,Matemática
+2024,RR,Norte,Pública,561.45,600.00,3202,Redação
+2024,RS,Sul,Privada,576.64,583.60,10975,Ciências Humanas
+2024,RS,Sul,Privada,550.71,559.60,10975,Ciências da Natureza
+2024,RS,Sul,Privada,574.18,580.20,10975,Linguagens e Códigos
+2024,RS,Sul,Privada,621.08,637.50,10975,Matemática
+2024,RS,Sul,Privada,765.21,800.00,10975,Redação
+2024,RS,Sul,Pública,511.33,518.00,39170,Ciências Humanas
+2024,RS,Sul,Pública,487.13,484.70,39170,Ciências da Natureza
+2024,RS,Sul,Pública,529.54,535.60,39170,Linguagens e Códigos
+2024,RS,Sul,Pública,517.01,496.40,39170,Matemática
+2024,RS,Sul,Pública,624.11,640.00,39170,Redação
+2024,SC,Sul,Privada,581.99,588.90,8729,Ciências Humanas
+2024,SC,Sul,Privada,564.63,571.40,8729,Ciências da Natureza
+2024,SC,Sul,Privada,574.50,580.20,8729,Linguagens e Códigos
+2024,SC,Sul,Privada,634.05,649.40,8729,Matemática
+2024,SC,Sul,Privada,762.25,780.00,8729,Redação
+2024,SC,Sul,Pública,516.59,523.70,23515,Ciências Humanas
+2024,SC,Sul,Pública,493.60,495.00,23515,Ciências da Natureza
+2024,SC,Sul,Pública,532.14,538.10,23515,Linguagens e Códigos
+2024,SC,Sul,Pública,515.95,500.50,23515,Matemática
+2024,SC,Sul,Pública,627.13,640.00,23515,Redação
+2024,SE,Nordeste,Privada,566.47,575.70,3121,Ciências Humanas
+2024,SE,Nordeste,Privada,538.57,541.20,3121,Ciências da Natureza
+2024,SE,Nordeste,Privada,559.55,566.50,3121,Linguagens e Códigos
+2024,SE,Nordeste,Privada,600.31,608.70,3121,Matemática
+2024,SE,Nordeste,Privada,795.62,840.00,3121,Redação
+2024,SE,Nordeste,Pública,468.02,466.00,14282,Ciências Humanas
+2024,SE,Nordeste,Pública,458.13,450.50,14282,Ciências da Natureza
+2024,SE,Nordeste,Pública,488.64,494.40,14282,Linguagens e Códigos
+2024,SE,Nordeste,Pública,479.27,454.20,14282,Matemática
+2024,SE,Nordeste,Pública,599.72,640.00,14282,Redação
+2024,SP,Sudeste,Privada,570.61,576.90,70457,Ciências Humanas
+2024,SP,Sudeste,Privada,552.42,557.90,70457,Ciências da Natureza
+2024,SP,Sudeste,Privada,568.72,573.40,70457,Linguagens e Códigos
+2024,SP,Sudeste,Privada,620.27,633.30,70457,Matemática
+2024,SP,Sudeste,Privada,745.36,760.00,70457,Redação
+2024,SP,Sudeste,Pública,508.99,516.50,146941,Ciências Humanas
+2024,SP,Sudeste,Pública,482.23,480.50,146941,Ciências da Natureza
+2024,SP,Sudeste,Pública,528.88,536.80,146941,Linguagens e Códigos
+2024,SP,Sudeste,Pública,513.89,494.80,146941,Matemática
+2024,SP,Sudeste,Pública,607.29,600.00,146941,Redação
+2024,TO,Norte,Privada,571.78,582.90,921,Ciências Humanas
+2024,TO,Norte,Privada,551.17,556.40,921,Ciências da Natureza
+2024,TO,Norte,Privada,561.92,570.80,921,Linguagens e Códigos
+2024,TO,Norte,Privada,607.41,624.20,921,Matemática
+2024,TO,Norte,Privada,792.88,820.00,921,Redação
+2024,TO,Norte,Pública,463.15,460.70,8587,Ciências Humanas
+2024,TO,Norte,Pública,457.05,450.60,8587,Ciências da Natureza
+2024,TO,Norte,Pública,488.03,494.30,8587,Linguagens e Códigos
+2024,TO,Norte,Pública,478.09,453.50,8587,Matemática
+2024,TO,Norte,Pública,571.89,600.00,8587,Redação
