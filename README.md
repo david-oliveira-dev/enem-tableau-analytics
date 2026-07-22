@@ -252,3 +252,14 @@ Portal: <https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microda
 Os arquivos são de uso público. Não contêm identificação pessoal: o número de inscrição é
 mascarado pelo INEP e, segundo o dicionário, o mesmo `NU_INSCRICAO` em anos diferentes não
 identifica o mesmo participante.
+
+---
+
+## Licença
+
+Código e documentação sob [MIT](LICENSE).
+
+Os microdados do ENEM são publicados pelo INEP/MEC como dados abertos e **não são cobertos
+por esta licença** — ela se aplica apenas ao que há de autoral neste repositório. As
+tabelas em `data/processed/` e `outputs/tableau/` são derivadas desses dados públicos e
+seguem os termos de uso do INEP.
