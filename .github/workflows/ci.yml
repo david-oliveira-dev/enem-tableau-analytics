@@ -1,0 +1,44 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.10", "3.12"]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: pip
+
+      # Os microdados brutos (~6 GB) não são versionados, mas as tabelas agregadas e a
+      # amostra são — então a suíte inteira roda no CI, inclusive os testes que conferem
+      # se a amostra continua representativa da base completa.
+      - name: Instalar dependências
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Testes
+        run: pytest tests/ -q
+
+      - name: Verificar que os artefatos do Tableau abrem
+        run: |
+          python - <<'PY'
+          import pantab
+          tabelas = pantab.frames_from_hyper("outputs/tableau/enem_tableau.hyper")
+          nomes = sorted(str(n[-1]) for n in tabelas)
+          print("tabelas no .hyper:", ", ".join(nomes))
+          assert "amostra" in nomes, "tabela de amostra ausente no extract"
+          assert len(nomes) == 9, f"esperava 9 tabelas, encontrei {len(nomes)}"
+          PY
